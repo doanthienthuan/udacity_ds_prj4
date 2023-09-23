@@ -21,7 +21,7 @@ New features are engineered from the dataset to enhance the modeling process.
 Modeling: Various machine learning algorithms, including Logistic Regression, Random Forest, Gradient Boosted Trees, Linear SVM, and Naive Bayes, are employed for churn prediction.
 
 # Medium blog
-For a detailed exposition of the key insights derived from the project's code, please refer to the Medium Blog post accessible via this link. The blog post delves into the technical intricacies of the project, providing a comprehensive overview of the methodologies employed. Notably, the Random Forest Classifier emerged as the optimal model based on rigorous evaluation of F1 score and accuracy metrics. The final model garnered impressive scores, achieving an F1 and Accuracy rating of 0.88.
+For a detailed exposition of the key insights derived from the project's code, please refer to the Medium Blog post accessible via this [link]([url](https://medium.com/@thienthuan08061999/predicting-customer-churn-with-pyspark-saving-your-business-b3ee69557a3f)). The blog post delves into the technical intricacies of the project, providing a comprehensive overview of the methodologies employed. Notably, the Random Forest Classifier emerged as the optimal model based on rigorous evaluation of F1 score and accuracy metrics. The final model garnered impressive scores, achieving an F1 and Accuracy rating of 0.88.
 
 # File Descriptions:
 The project includes an exploratory Jupyter notebook and an HTML version of the notebook. Markdown cells are utilized to provide explanations throughout the notebook, documenting the data analysis and modeling process.
